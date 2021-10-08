@@ -1,4 +1,4 @@
-@import 'part:@sanity/base/theme/variables-style';
+@import "part:@sanity/base/theme/variables-style";
 
 .root {
   composes: container from "part:@sanity/dashboard/widget-styles";
@@ -26,7 +26,7 @@
 }
 
 .link {
-  composes: item from 'part:@sanity/base/theme/layout/selectable-style';
+  composes: item from "part:@sanity/base/theme/layout/selectable-style";
   display: block;
   border-radius: 2px;
   padding: var(--small-padding);

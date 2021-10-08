@@ -12,8 +12,7 @@ export default {
                 "NOTE: Because these sites are static builds, they need to be re-deployed to see the changes when documents are published.",
               sites: [
                 {
-                  buildHookId:
-                    "616006c727f46d009205bab4",
+                  buildHookId: "616006c727f46d009205bab4",
                   title: "Sanity Studio",
                   name: "sanity-gatsby-blog-3-studio-ch48ysi1",
                   apiId: "70b2c407-2de5-40ad-955f-05d23532b06d",
@@ -31,8 +30,7 @@ export default {
         data: [
           {
             title: "GitHub repo",
-            value:
-              "https://github.com/bgoonz/sanity-gatsby-blog3",
+            value: "https://github.com/bgoonz/sanity-gatsby-blog3",
             category: "Code",
           },
           {
