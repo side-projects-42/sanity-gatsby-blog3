@@ -8,14 +8,8 @@ import { buildImageObj } from "../lib/helpers";
 import { imageUrlFor } from "../lib/image-url";
 
 function BlogPost(props) {
-  const {
-    _rawBody,
-    authors,
-    categories,
-    title,
-    mainImage,
-    publishedAt,
-  } = props;
+  const { _rawBody, authors, categories, title, mainImage, publishedAt } =
+    props;
   return (
     <article className={styles.root}>
       {mainImage && mainImage.asset && (

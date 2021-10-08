@@ -1,7 +1,5 @@
-@import '../styles/custom-media.css';
-@import '../styles/custom-properties.css';
-
-
+@import "../styles/custom-media.css";
+@import "../styles/custom-properties.css";
 
 /*
  * Statically sized elements
@@ -42,8 +40,6 @@
   line-height: var(--font-micro-line-height);
   text-transform: uppercase;
 }
-
-
 
 /*
  * Responsively sized elements
