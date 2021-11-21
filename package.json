@@ -16,7 +16,7 @@
   "devDependencies": {
     "@sanity/cli": "2.21.0",
     "babel-eslint": "10.1.0",
-    "eslint": "7.32.0",
+    "eslint": "8.3.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-import": "2.24.2",
     "eslint-plugin-prettier": "3.4.1",
