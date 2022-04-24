@@ -22,6 +22,6 @@
     "eslint-plugin-prettier": "3.4.1",
     "eslint-plugin-react": "7.27.1",
     "lerna": "3.22.1",
-    "prettier": "2.5.0"
+    "prettier": "2.6.2"
   }
 }
