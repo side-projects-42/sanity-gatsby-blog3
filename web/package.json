@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "dotenv": "10.0.0",
-    "postcss": "8.3.9",
+    "postcss": "8.4.13",
     "postcss-preset-env": "7.0.1"
   },
   "dependencies": {
