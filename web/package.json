@@ -14,7 +14,7 @@
   "devDependencies": {
     "dotenv": "10.0.0",
     "postcss": "8.3.9",
-    "postcss-preset-env": "7.0.1"
+    "postcss-preset-env": "7.5.0"
   },
   "dependencies": {
     "@sanity/block-content-to-react": "3.0.0",
